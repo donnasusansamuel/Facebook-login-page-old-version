@@ -133,6 +133,8 @@ body{
     margin-top: 10px;
     font-size: 20px;
     font-weight: bold;
+    margin-bottom: 15px;
+
 }
 .in-circle1{
     font-weight: bold;
@@ -150,10 +152,11 @@ body{
     margin-left: 15px;
 }
 .policy{
-    ont-size: 14px;
+    font-size: 14px;
     color: gray;
     font-size: 12px;
     line-height: 16px;
+    
 
 }
 .submit{
@@ -165,15 +168,15 @@ body{
     padding: 0 19px;
     border-radius: 5px;
     font-weight: bold;
-    
-    
-    
-.sign{
-   
+
 }
-
-
-
+.sign{
+    text-decoration: none;
+    color: blue;
+}
+.caption{
+    font-weight: bold;
+    font-size: 18px;
 }
 
     
