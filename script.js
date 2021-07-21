@@ -20,7 +20,7 @@ $(document).ready(function(){
             
             maxlength: 30,
             
-            pwcheck: true  
+            
         },
         day:{
             required:true
@@ -44,11 +44,7 @@ $(document).ready(function(){
             required:"Enter Surname",
             minlength:"Enter atleast 4 characters"
         },
-        password:{
-            required: "Password is not strong enough"
-            
-        }
-
+        
         
 
                 
