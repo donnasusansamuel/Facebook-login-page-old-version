@@ -152,12 +152,11 @@ body{
     margin-left: 15px;
 }
 .policy{
-    font-size: 14px;
+     
+    
     color: gray;
     font-size: 12px;
-    line-height: 16px;
-    
-
+    line-height: 16px;   
 }
 .submit{
     background-color: #42b72a;
@@ -168,15 +167,25 @@ body{
     padding: 0 19px;
     border-radius: 5px;
     font-weight: bold;
-
 }
 .sign{
     text-decoration: none;
     color: blue;
 }
+    .sign1{
+        text-decoration: none;
+        color: blue;
+        font-size: 20px;
+    }    
+        
+    
 .caption{
     font-weight: bold;
-    font-size: 18px;
+    font-size: 16px;
+}
+.footer{
+    height: 100px;
+    background-color: lavender;
 }
 
     
